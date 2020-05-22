@@ -2,7 +2,5 @@
  TrashAPP
 
 Developer
-
+Blah Dracula
 Developer 2 111
-
-O Martim mijou aqui para marcar território
